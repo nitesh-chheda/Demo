@@ -34,5 +34,70 @@
     "rating": 4.3,
     "reviews": 95,
     "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Wireless Bluetooth Headphones",
+    "description": "Noise-cancelling over-ear headphones with 30-hour battery life.",
+    "price": 129.99,
+    "category": "Electronics",
+    "subCategory": "Audio",
+    "brand": "SoundMax",
+    "colors": ["Black", "Silver"],
+    "images": [
+      "assets/images/products/headphones-1.jpg",
+      "assets/images/products/headphones-2.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": 210,
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "Stainless Steel Water Bottle",
+    "description": "Insulated bottle keeps drinks cold for 24 hours or hot for 12 hours.",
+    "price": 19.99,
+    "category": "Home & Kitchen",
+    "subCategory": "Drinkware",
+    "brand": "HydroPro",
+    "colors": ["Blue", "Green", "Red"],
+    "images": [
+      "assets/images/products/bottle-1.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 340,
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Smart Fitness Watch",
+    "description": "Track your activity, heart rate, and sleep with this waterproof smartwatch.",
+    "price": 89.99,
+    "category": "Electronics",
+    "subCategory": "Wearables",
+    "brand": "FitTech",
+    "colors": ["Black", "Pink"],
+    "images": [
+      "assets/images/products/watch-1.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 180,
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Eco-Friendly Yoga Mat",
+    "description": "Non-slip, biodegradable yoga mat for all types of workouts.",
+    "price": 39.99,
+    "category": "Sports & Outdoors",
+    "subCategory": "Fitness",
+    "brand": "YogaLife",
+    "colors": ["Purple", "Teal"],
+    "images": [
+      "assets/images/products/yogamat-1.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 75,
+    "inStock": true
   }
-] 
+]
